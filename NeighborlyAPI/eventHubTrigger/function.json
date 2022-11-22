@@ -5,9 +5,10 @@
       "type": "eventGridTrigger",
       "name": "event",
       "direction": "in",
-	  "eventHubName": "testhub", 
-	  "connection": "Endpoint=sb://udacityneighborly.servicebus.windows.net/;SharedAccessKeyName=allpolicy;SharedAccessKey=LOxUOkN13xN038T1VoSsmaTt4s7vq/+VCzduS5/nH9A=;EntityPath=testhub"
-    }
+	  "eventHubName": "eventhubnamespaceproject2", 
+	  "connection": "Endpoint=sb://eventhubnamespaceproject2.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=36yVoNbYxhd/Uqao3pB6go97l5+tR0ZJQshmphX/uyI=;EntityPath=eventhubnamespaceproject2"
+    
+  }
   ]
 }
 
